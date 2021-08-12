@@ -2,10 +2,10 @@
 
 proposal
 
-Dataset1: unknow
+Dataset1: image classification and auto encoder application
 
-this project will do more advanced image classification, classific character of object based on similarity of object with same character, like polar bear and tiger will be classify as "top predator" and rabbit or deer would be classifi as "basic vegetarian" , similar logic might apply for identify fighter or bomber if image is about aircraft
-
+this project will do more advanced image classification, classific character of object based on similarity of object with same character, like polar bear and tiger will be classify as "top predator" and rabbit or deer would be classifi as "basic non-predator" , similar logic might apply for identify fighter or bomber if image is about aircraft
+https://cvml.ist.ac.at/AwA2/#
 
 Dataset2: movielens
 the case study on this data will analyze movie in past, analyz the preference and chance happend in past of movie industry, and might include some prediction

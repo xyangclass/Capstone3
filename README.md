@@ -1,6 +1,5 @@
-# Caspston3
+# Analysis of Application of Image Classification 
 
-proposal
 
 image classification and auto encoder application
 

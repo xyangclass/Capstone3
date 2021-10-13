@@ -3,7 +3,7 @@
 
 image classification and auto encoder application
 
-this project will do more advanced image classification, classific character of object based on similarity of object with same character, like polar bear and tiger will be classify as "top predator" and rabbit or deer would be classifi as "basic non-predator" , similar logic might apply for identify fighter or bomber if image is about aircraft
+this project will do more advanced image classification, classify character of object based on similarity of object with same character, like polar bear and tiger will be classify as "top predator" and rabbit or deer would be classify as "basic non-predator" , similar logic might apply for identify fighter or bomber if image is about aircraft
 
 Dataset: Animals with Attributes 
  37322 images of 50 animals classes 
